@@ -37,11 +37,6 @@ Tags: _y[u]_y
 * ilk test stepi
 * Ebubekir yazdi bunu
 
-
-Tags: Deneme
-* Silgi
-* Ebubekir yazdi bunu
-
  Silgi
 -------------
 
